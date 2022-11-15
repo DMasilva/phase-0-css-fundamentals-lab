@@ -25,8 +25,8 @@ figure{
   float: left;
   color: black;
   display: inline-flex;
-  padding-right: 20px;
-  margin-left: 20px;
+  padding-right: 50px;
+  margin-left: 100px;
   background-color: red;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: small
